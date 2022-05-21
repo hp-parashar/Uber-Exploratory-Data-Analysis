@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-Pandas, Numpy, Seaborn and Matplotlib, PyTorch
+Pandas, Numpy, Seaborn and Matplotlib
